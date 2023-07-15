@@ -5,7 +5,6 @@ This is Version 1 of a simple To-Do app built using Node.js, Express.js, EJS, HT
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [App Video](#Video)
@@ -20,9 +19,6 @@ This is Version 1 of a simple To-Do app built using Node.js, Express.js, EJS, HT
 - Add tasks to the work-specific to-do list.
 - Simple and intuitive user interface.
 
-## Demo
-
-You can try out the app [here](https://your-todo-app-demo-url.com).
 
 ## Installation
 

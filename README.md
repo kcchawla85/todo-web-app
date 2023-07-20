@@ -69,4 +69,4 @@ This project is licensed under the [MIT License](LICENSE), which means it is fre
 
 Thank you for checking out my To-Do App project! I hope you find it useful and look forward to your
 
-# Link to Previous version : https://github.com/kcchawla85/todo-web-app
+# Link to Previous version : [https://github.com/kcchawla85/todo-web-app](https://github.com/kcchawla85/todo-web-app/tree/master)https://github.com/kcchawla85/todo-web-app/tree/master

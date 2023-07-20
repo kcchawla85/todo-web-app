@@ -84,3 +84,5 @@ Contributions are welcome! If you have any suggestions, bug fixes, or new featur
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per the terms of the license.
 
 Happy task managing! If you encounter any issues or have suggestions for improvement, please don't hesitate to reach out. Enjoy using the app!
+
+# Link of updated version: https://github.com/kcchawla85/todo-web-app/tree/todov2app
